@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/fall-from-the-moon/static/css/main.7acaea2f.css",
-    "main.js": "/fall-from-the-moon/static/js/main.07d3183d.js",
+    "main.js": "/fall-from-the-moon/static/js/main.76316e37.js",
+    "static/media/cat.gif": "/fall-from-the-moon/static/media/cat.8eb5dab711f735737f96.gif",
+    "static/media/land.jpg": "/fall-from-the-moon/static/media/land.89fa79ffca99abc13027.jpg",
+    "static/media/moon.jpg": "/fall-from-the-moon/static/media/moon.6ae362c62f6696951918.jpg",
     "index.html": "/fall-from-the-moon/index.html",
     "main.7acaea2f.css.map": "/fall-from-the-moon/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/fall-from-the-moon/static/js/main.07d3183d.js.map"
+    "main.76316e37.js.map": "/fall-from-the-moon/static/js/main.76316e37.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.76316e37.js"
   ]
 }
