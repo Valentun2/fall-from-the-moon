@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fall-from-the-moon/static/css/main.7acaea2f.css",
+    "main.js": "/fall-from-the-moon/static/js/main.07d3183d.js",
+    "index.html": "/fall-from-the-moon/index.html",
+    "main.7acaea2f.css.map": "/fall-from-the-moon/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/fall-from-the-moon/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
