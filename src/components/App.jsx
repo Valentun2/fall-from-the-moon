@@ -37,7 +37,7 @@ export const App = () => {
           style={{ textAlign: 'center',
         height:'500px'}}
         >
-          <img src={cat} />
+          <img src={cat} alt='cat' />
         </ParallaxLayer>
 
         <ParallaxLayer
